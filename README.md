@@ -1,4 +1,11 @@
+<h1> 
+               ________________________
+              < Nothing to see here yet >
+               ------------------------
+                      \   ^__^
+                       \  (oo)\_______
+                          (__)\       )\/\
+                              ||----w |
+                              ||     ||
 
-<div align="center">
-    <img src="styles.svg" width="400" height="400" alt="css-in-readme">
-</div>
+</h1>
