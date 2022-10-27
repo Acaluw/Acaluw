@@ -1,12 +1,4 @@
 
-<pre class="rainbow rainbow_text_animated"> 
- ________________________
-< Nothing to see here yet >
- ------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
-
-</pre>
+<div align="center">
+    <img src="styles.svg" width="400" height="400" alt="css-in-readme">
+</div>
